@@ -42,7 +42,7 @@
     "algoliasearch": "^4.11.0",
     "instantsearch.css": "^7.4.5",
     "metadata-scraper": "^0.2.49",
-    "storyblok-algolia-indexer": "https://github.com/Sofrosine/storyblok-algolia-indexer/tree/main",
+    "storyblok-algolia-indexer": "https://github.com/Sofrosine/storyblok-algolia-indexer.git",
     "vue-instantsearch": "^4.3.2"
   },
   "devDependencies": {
